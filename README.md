@@ -1,5 +1,5 @@
 <!-- registry-sync: version=7.2.0; skills=1232; stars=21535; updated_at=2026-03-08T08:00:03+00:00 -->
-# 🌌 Antigravity Awesome Skills: 1,232+ Agentic Skills for Claude Code, Gemini CLI, Cursor, Copilot & More
+# 🌌 Agentic Awesome Skills: 1,232+ Agentic Skills for Claude Code, Gemini CLI, Cursor, Copilot & More
 
 > **The Ultimate Collection of 1,232+ Universal Agentic Skills for AI Coding Assistants — Claude Code, Gemini CLI, Codex CLI, Antigravity IDE, GitHub Copilot, Cursor, OpenCode, AdaL**
 
@@ -37,7 +37,6 @@
 - [💬 Community](#community)
 - [☕ Support the Project](#support-the-project)
 - [🏆 Credits & Sources](#credits--sources)
-- [👥 Repo Contributors](#repo-contributors)
 - [⚖️ License](#license)
 - [🌟 Star History](#star-history)
 
@@ -364,36 +363,6 @@ This collection would not be possible without the incredible work of the Claude 
 - **[google-gemini/gemini-skills](https://github.com/google-gemini/gemini-skills)**: Official Gemini skills - Gemini API, SDK and model interactions.
 - **[apify/agent-skills](https://github.com/apify/agent-skills)**: Official Apify skills - Web scraping, data extraction and automation.
 
-### Community Contributors
-
-- **[rmyndharis/antigravity-skills](https://github.com/rmyndharis/antigravity-skills)**: For the massive contribution of 300+ Enterprise skills and the catalog generation logic.
-- **[amartelr/antigravity-workspace-manager](https://github.com/amartelr/antigravity-workspace-manager)**: Official Workspace Manager CLI companion to dynamically auto-provision subsets of skills across unlimited local development environments.
-- **[obra/superpowers](https://github.com/obra/superpowers)**: The original "Superpowers" by Jesse Vincent.
-- **[guanyang/antigravity-skills](https://github.com/guanyang/antigravity-skills)**: Core Antigravity extensions.
-- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)**: Infrastructure and Backend/Frontend Guidelines.
-- **[ChrisWiles/claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase)**: React UI patterns and Design Systems.
-- **[travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills)**: Loki Mode and Playwright integration.
-- **[zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide)**: Comprehensive Security suite & Guide (Source for ~60 new skills).
-- **[alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills)**: Senior Engineering and PM toolkit.
-- **[karanb192/awesome-claude-skills](https://github.com/karanb192/awesome-claude-skills)**: A massive list of verified skills for Claude Code.
-- **[VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)**: Curated collection of 61 high-quality skills including official team skills from Sentry, Trail of Bits, Expo, Hugging Face, and comprehensive context engineering suite (v4.3.0 integration).
-- **[zircote/.claude](https://github.com/zircote/.claude)**: Shopify development skill reference.
-- **[vibeforge1111/vibeship-spawner-skills](https://github.com/vibeforge1111/vibeship-spawner-skills)**: AI Agents, Integrations, Maker Tools (57 skills, Apache 2.0).
-- **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)**: Marketing skills for CRO, copywriting, SEO, paid ads, and growth (23 skills, MIT).
-- **[jonathimer/devmarketing-skills](https://github.com/jonathimer/devmarketing-skills)**: Developer marketing skills — HN strategy, technical tutorials, docs-as-marketing, Reddit engagement, developer onboarding, and more (33 skills, MIT).
-- **[Silverov/yandex-direct-skill](https://github.com/Silverov/yandex-direct-skill)**: Yandex Direct (API v5) advertising audit skill — 55 automated checks, A-F scoring, campaign/ad/keyword analysis for the Russian PPC market (MIT).
-- **[vudovn/antigravity-kit](https://github.com/vudovn/antigravity-kit)**: AI Agent templates with Skills, Agents, and Workflows (33 skills, MIT).
-- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)**: Complete Claude Code configuration collection from Anthropic hackathon winner - skills only (8 skills, MIT).
-- **[whatiskadudoing/fp-ts-skills](https://github.com/whatiskadudoing/fp-ts-skills)**: Practical fp-ts skills for TypeScript – fp-ts-pragmatic, fp-ts-react, fp-ts-errors (v4.4.0).
-- **[webzler/agentMemory](https://github.com/webzler/agentMemory)**: Source for the agent-memory-mcp skill.
-- **[sstklen/claude-api-cost-optimization](https://github.com/sstklen/claude-api-cost-optimization)**: Save 50-90% on Claude API costs with smart optimization strategies (MIT).
-- **[Wittlesus/cursorrules-pro](https://github.com/Wittlesus/cursorrules-pro)**: Professional .cursorrules configurations for 8 frameworks - Next.js, React, Python, Go, Rust, and more. Works with Cursor, Claude Code, and Windsurf.
-- **[nedcodes-ok/rule-porter](https://github.com/nedcodes-ok/rule-porter)**: Bidirectional rule converter between Cursor (.mdc), Claude Code (CLAUDE.md), GitHub Copilot, Windsurf, and legacy .cursorrules formats. Zero dependencies.
-- **[SSOJet/skills](https://github.com/ssojet/skills)**: Production-ready SSOJet skills and integration guides for popular frameworks and platforms — Node.js, Next.js, React, Java, .NET Core, Go, iOS, Android, and more. Works seamlessly with SSOJet SAML, OIDC, and enterprise SSO flows. Works with Cursor, Antigravity, Claude Code, and Windsurf.
-- **[MojoAuth/skills](https://github.com/MojoAuth/skills)**: Production-ready MojoAuth guides and examples for popular frameworks like Node.js, Next.js, React, Java, .NET Core, Go, iOS, and Android.
-- **[Xquik-dev/x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper)**: X (Twitter) data platform — tweet search, user lookup, follower extraction, engagement metrics, giveaway draws, monitoring, webhooks, 19 extraction tools, MCP server.
-- **[shmlkv/dna-claude-analysis](https://github.com/shmlkv/dna-claude-analysis)**: Personal genome analysis toolkit — Python scripts analyzing raw DNA data across 17 categories (health risks, ancestry, pharmacogenomics, nutrition, psychology, etc.) with terminal-style single-page HTML visualization.
-- **[AlmogBaku/debug-skill](https://github.com/AlmogBaku/debug-skill)**: Interactive debugger skill for AI agents — breakpoints, stepping, variable inspection, and stack traces via the `dap` CLI. Supports Python, Go, Node.js/TypeScript, Rust, and C/C++.
 
 ### Inspirations
 
@@ -403,101 +372,6 @@ This collection would not be possible without the incredible work of the Claude 
 ### Additional Sources
 
 - **[agent-cards/skill](https://github.com/agent-cards/skill)**: Manage prepaid virtual Visa cards for AI agents. Create cards, check balances, view credentials, close cards, and get support via MCP tools.
-
-## Repo Contributors
-
-<a href="https://github.com/sickn33/antigravity-awesome-skills/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=sickn33/antigravity-awesome-skills&max=120" alt="Repository contributors" />
-</a>
-
-Made with [contrib.rocks](https://contrib.rocks). *(Image may be cached; [view live contributors](https://github.com/sickn33/antigravity-awesome-skills/graphs/contributors) on GitHub.)*
-
-We officially thank the following contributors for their help in making this repository awesome!
-
-- [@sickn33](https://github.com/sickn33)
-- [@munir-abbasi](https://github.com/munir-abbasi)
-- [@ssumanbiswas](https://github.com/ssumanbiswas)
-- [@zinzied](https://github.com/zinzied)
-- [@Mohammad-Faiz-Cloud-Engineer](https://github.com/Mohammad-Faiz-Cloud-Engineer)
-- [@Dokhacgiakhoa](https://github.com/Dokhacgiakhoa)
-- [@IanJ332](https://github.com/IanJ332)
-- [@chauey](https://github.com/chauey)
-- [@ar27111994](https://github.com/ar27111994)
-- [@8hrsk](https://github.com/8hrsk)
-- [@itsmeares](https://github.com/itsmeares)
-- [@GuppyTheCat](https://github.com/GuppyTheCat)
-- [@fernandorych](https://github.com/fernandorych)
-- [@nikolasdehor](https://github.com/nikolasdehor)
-- [@talesperito](https://github.com/talesperito)
-- [@jackjin1997](https://github.com/jackjin1997)
-- [@HuynhNhatKhanh](https://github.com/HuynhNhatKhanh)
-- [@liyin2015](https://github.com/liyin2015)
-- [@arathiesh](https://github.com/arathiesh)
-- [@Tiger-Foxx](https://github.com/Tiger-Foxx)
-- [@Musayrlsms](https://github.com/Musayrlsms)
-- [@sohamganatra](https://github.com/sohamganatra)
-- [@SuperJMN](https://github.com/SuperJMN)
-- [@SebConejo](https://github.com/SebConejo)
-- [@Onsraa](https://github.com/Onsraa)
-- [@truongnmt](https://github.com/truongnmt)
-- [@code-vj](https://github.com/code-vj)
-- [@viktor-ferenczi](https://github.com/viktor-ferenczi)
-- [@vprudnikoff](https://github.com/vprudnikoff)
-- [@Vonfry](https://github.com/Vonfry)
-- [@Wittlesus](https://github.com/Wittlesus)
-- [@avimak](https://github.com/avimak)
-- [@buzzbysolcex](https://github.com/buzzbysolcex)
-- [@c1c3ru](https://github.com/c1c3ru)
-- [@ckdwns9121](https://github.com/ckdwns9121)
-- [@developer-victor](https://github.com/developer-victor)
-- [@fbientrigo](https://github.com/fbientrigo)
-- [@junited31](https://github.com/junited31)
-- [@KrisnaSantosa15](https://github.com/KrisnaSantosa15)
-- [@nocodemf](https://github.com/nocodemf)
-- [@sstklen](https://github.com/sstklen)
-- [@taksrules](https://github.com/taksrules)
-- [@thuanlm215](https://github.com/thuanlm215)
-- [@zebbern](https://github.com/zebbern)
-- [@vuth-dogo](https://github.com/vuth-dogo)
-- [@ALEKGG1](https://github.com/ALEKGG1)
-- [@Abdulrahmansoliman](https://github.com/Abdulrahmansoliman)
-- [@alexmvie](https://github.com/alexmvie)
-- [@Andruia](https://github.com/Andruia)
-- [@acbhatt12](https://github.com/acbhatt12)
-- [@BenedictKing](https://github.com/BenedictKing)
-- [@rcigor](https://github.com/rcigor)
-- [@whatiskadudoing](https://github.com/whatiskadudoing)
-- [@k-kolomeitsev](https://github.com/k-kolomeitsev)
-- [@Krishna-Modi12](https://github.com/Krishna-Modi12)
-- [@kromahlusenii-ops](https://github.com/kromahlusenii-ops)
-- [@djmahe4](https://github.com/djmahe4)
-- [@maxdml](https://github.com/maxdml)
-- [@mertbaskurt](https://github.com/mertbaskurt)
-- [@nedcodes-ok](https://github.com/nedcodes-ok)
-- [@LocNguyenSGU](https://github.com/LocNguyenSGU)
-- [@KhaiTrang1995](https://github.com/KhaiTrang1995)
-- [@sharmanilay](https://github.com/sharmanilay)
-- [@yubing744](https://github.com/yubing744)
-- [@PabloASMD](https://github.com/PabloASMD)
-- [@0xrohitgarg](https://github.com/0xrohitgarg)
-- [@Silverov](https://github.com/Silverov)
-- [@shmlkv](https://github.com/shmlkv)
-- [@kriptoburak](https://github.com/kriptoburak)
-- [@lsuryatej](https://github.com/lsuryatej)
-- [@tejasashinde](https://github.com/tejasashinde)
-- [@SnakeEye-sudo](https://github.com/SnakeEye-sudo)
-- [@8144225309](https://github.com/8144225309)
-- [@RamonRiosJr](https://github.com/RamonRiosJr)
-- [@sx4im](https://github.com/sx4im)
-- [@skyruh](https://github.com/skyruh)
-- [@nagisanzenin](https://github.com/nagisanzenin)
-- [@devchangjun](https://github.com/devchangjun)
-- [@raeef1001](https://github.com/raeef1001)
-- [@1bcMax](https://github.com/1bcMax)
-- [@Sayeem3051](https://github.com/Sayeem3051)
-- [@AlmogBaku](https://github.com/AlmogBaku)
-- [@ProgramadorBrasil](https://github.com/ProgramadorBrasil)
-- [@shubhamdevx](https://github.com/shubhamdevx)
 
 ---
 
